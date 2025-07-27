@@ -33,7 +33,7 @@ This project automatically extracts structured headings (like H1, H2) from PDFs 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/pdf-heading-extractor.git
+git clone https://github.com/saishivamani1/pdf-heading-extractor.git
 cd pdf-heading-extractor
 ```
 
