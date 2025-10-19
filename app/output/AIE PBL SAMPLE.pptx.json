@@ -1,0 +1,165 @@
+{
+    "title": "AIE PBL SAMPLE.pptx",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "Project Based Report on",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "Online Book Store",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "TEAM 4",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "23 EG 106 E08",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "23 EG 106 E15",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "23 EG 106 E16",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "23 EG 106 E17",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "Presentation Schedule :",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "Programme",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": ": B.Tech (2024-25)",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "Year/ Semester       : 2024-24",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "Class  & Section",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": ": AI –E Section",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "Course Name",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": ":     Data Base Management Systems",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "Faculty Name",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": ":     S.Vijitha",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "Project Title",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "Introduction",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "Objective",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "Documentation",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "Coding",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "Screen outputs",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "Glimpses",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "Conclusion",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "Online Book Store",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "Overview:",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "TechStack:",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "Database Schema & Relationships",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "Key Relationships",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "Feature Breakdown: Authentication & Order Processing",
+            "page": 6
+        },
+        {
+            "level": "H2",
+            "text": "1. Authentication System (User Login & Session Management)",
+            "page": 6
+        }
+    ]
+}
